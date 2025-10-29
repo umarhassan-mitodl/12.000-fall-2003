@@ -48,16 +48,16 @@ Students in 12.000 have at least three options for building their sites:
 
 Students often find the following web sites to be useful references to the art and science of Web authoring:
 
-[Web Page Construction Using Netscape® Composer](http://web.pdx.edu/~singlem/coursesite/webpage.html) - A great resource by Julie Van Camp, a professor at Cal State - Long Beach. Ignore the school-specific information concerning downloading and publishing.
+{{% resource_link "920ac750-8530-49f2-bb6e-01d4bb2b9fe5" "Web Page Construction Using Netscape® Composer" %}} - A great resource by Julie Van Camp, a professor at Cal State - Long Beach. Ignore the school-specific information concerning downloading and publishing.
 
-[Netscape® Composer: A Tutorial](http://www.angelfire.com/md2/webtutorial/) - Another straightforward how-to resource by Gwyneth Anne Bronwynne Jones (great name!) at the Murray Hill Middle School in Maryland.
+{{% resource_link "b5e7fa70-a9e5-4f36-b828-9efd21c6816e" "Netscape® Composer: A Tutorial" %}} - Another straightforward how-to resource by Gwyneth Anne Bronwynne Jones (great name!) at the Murray Hill Middle School in Maryland.
 
-[NCSA's Beginners Guide to HTML](http://www.put.com/HTMLPrimer.html) - Ready to graduate to HTML programming? Here's the classic place to start.
+{{% resource_link "f32e3ddf-0c63-47d4-b98e-11933a4584f1" "NCSA's Beginners Guide to HTML" %}} - Ready to graduate to HTML programming? Here's the classic place to start.
 
-[W3 Schools Tutorials](http://www.w3schools.com/) - Best of the bunch as a broad-spectrum, site-building tutorial. If you can't find it here, you probably don't need it.
+{{% resource_link "a9eb8950-81fc-4dc0-a3a0-f037fc7c7583" "W3 Schools Tutorials" %}} - Best of the bunch as a broad-spectrum, site-building tutorial. If you can't find it here, you probably don't need it.
 
-[HTML Goodies Site](https://www.htmlgoodies.com/) - A great resource for tips and tricks.
+{{% resource_link "33bb0436-9653-466a-9a95-5b8fb945def9" "HTML Goodies Site" %}} - A great resource for tips and tricks.
 
-[Yale University Web Style Guide](http://www.webstyleguide.com/) - Strategies for making Web sites effective, not just operational!
+{{% resource_link "368a4099-ac91-4a68-b231-17e29b20192d" "Yale University Web Style Guide" %}} - Strategies for making Web sites effective, not just operational!
 
-[Fixing Your Web Site](http://www.webpagesthatsuck.com/speeches.html) - A nice resource from Vincent Flanders, infamous host of [Web Pages That Suck](http://www.webpagesthatsuck.com/begin.htm).
+{{% resource_link "1c7ac458-006e-46f4-b987-061f93a65341" "Fixing Your Web Site" %}} - A nice resource from Vincent Flanders, infamous host of {{% resource_link "5c65b99a-0447-4d71-b3e0-5fdabc309b92" "Web Pages That Suck" %}}.
